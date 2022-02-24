@@ -1,6 +1,6 @@
 # scraping-best-sellers-from-glasses-shop
 
-Web scraped the best selling glasses and their details,from the website: https://www.glassesshop.com/bestsellers
+Web scraped the best selling glasses and their details using scrapy,from the website: https://www.glassesshop.com/bestsellers
 
 Repository Link: https://github.com/Abishek-Suresh/scraping-best-sellers-from-glasses-shop
 
